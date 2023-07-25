@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/segiterio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="segiterio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash kumar" target="blank"><img align="center" src="https://res.cloudinary.com/dx9i4cezk/image/upload/v1690292403/linkedin-logo-svgrepo-com_bdrlh6.svg" alt="akash kumar" height="30" width="40" /></a>
-<a href="https://medium.com/@segiterio" target="blank"><img align="center" color="white"  src="https://res.cloudinary.com/dx9i4cezk/image/upload/v1690292399/medium-svgrepo-com_z3rays.svg" alt="@segiterio" height="30" width="40" /></a>
+<a href="https://dev.to/segiterio" target="blank"><img align="center" src="https://res.cloudinary.com/dx9i4cezk/image/upload/v1690292399/dev-to-svgrepo-com_zzeqfi.svg" alt="segiterio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-kumar-32ba86203" target="blank"><img align="center" src="https://res.cloudinary.com/dx9i4cezk/image/upload/v1690292403/linkedin-logo-svgrepo-com_bdrlh6.svg" alt="akash kumar" height="30" width="40" /></a>
+<a href="https://medium.com/@segiterio" target="blank"><img align="center" color="#ffffff"  src="https://res.cloudinary.com/dx9i4cezk/image/upload/v1690292399/medium-svgrepo-com_z3rays.svg" alt="@segiterio" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/segiterio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="segiterio" height="30" width="40" /></a>
 </p>
 
